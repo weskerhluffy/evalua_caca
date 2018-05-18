@@ -3,6 +3,7 @@ Created on 18/05/2018
 
 @author: ernesto
 '''
+# XXX: https://www.hackerrank.com/contests/cs1300-odd-2014/challenges/evaluate-expression/problem
 
 from operator import add, sub, mul, floordiv
 
